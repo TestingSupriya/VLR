@@ -1,0 +1,16 @@
+->Verify Media Library Page opened
+->Verify Upload Media button avaiable or not
+->Verify that we can uplaod a image with UploadMedia button
+->Verify that grid view and list view icons are available
+//grid view 
+->Verify by selecting grid option we can get all images in the grid view
+->Verify that every image should have image pic,name,pixcels of image should displayed
+->Verify that down of every image the icons should displayed are edit,delete,publish in grid view
+->Verify by selecting edit icon we can edit the name of selected image
+->Verify by selecting delete icon we can delete the selected image
+->Verify by selecting publish icon we can publish the selected image
+->Verify that all the images are aligned properly in grid view
+->Verify that by select the sort from A-Z ,then the images are all sorted with images name A-Z in grid view
+->Verify in search bar we can add image first we will all the search images in 
+->Verify that by select the sort from Z-A ,then the images are all sorted with images name Z-A in gridview
+->Verify in search by giving first name of image all the 

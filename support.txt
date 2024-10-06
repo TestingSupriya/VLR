@@ -1,0 +1,17 @@
+monthly--60k--3hrs
+15k--weekly--security--every sunday
+support--sushant--13125
+
+monthly--50k--2hrs
+22.5k--15days--phyton--
+support--sushant--19000
+
+monthly--40k--2hrs
+20k--15 days--powerbi--
+support--kishore--15000
+
+monthly--55k--3hr
+27.5k--15days--dotnet--
+support--durga--22500
+
+

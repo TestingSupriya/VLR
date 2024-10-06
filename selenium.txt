@@ -1,0 +1,34 @@
+Selenium:--free--program languagues--java,phyton.ruby,dotnet,javascript,
+--Automation testing---QTP/UFT
+
+Manual testing---2 drawbacks
+regression and retesting
+
+
+Selenium:
+->Open source tool
+->supports programming languages
+->supports different OS--
+->support parallel testing
+->Supports cross browsing testing
+->Supports third party tools
+
+adavantages:
+->web application not for windows application--AutoIT
+->doesn't have support team---fourms
+->Selenium we cant generate reports---testnG
+->doesnt support image testing-->code upload and download
+
+---------------------------------------------------------------------------------------------------------------
+Selenium is a regression tool.Jason Huggins..Though works
+
+jason--2  --->3,4
+
+4 modules
+->WebDriver-_API--_WebDriver
+->web Server-> 
+ ->selenioum IDE--record and play
+ ->Selenium grid--client and resource
+
+
+HTML--hyper text markup language

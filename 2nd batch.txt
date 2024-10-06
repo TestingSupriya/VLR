@@ -1,0 +1,248 @@
+
+Manual Testing introduction:
+Manual testing is testing we do manually without any Automation tools and software.
+
+Software Testing:
+Software :collection of programs to complete a task then that can be called as software.We have application software,programming software,system software.
+
+Testing:Testing is nothing but whether the requestion functionlities are developed by developer is same as functionlities which are requested by client or end user.
+
+Bug:Is the difference between the requirement which asked by asked and the requirement which were developed by developer.
+
+
+
+Sofware Testing:
+--------------
+
+
+China Airbus--1980-1990--234 people died--That software is having a small bug
+banking----bug --sent 10000---30000
+Ecommerce---upi--
+
+frontend,api tesing,db testing,security---------->WebApplication
+
+100 time---100% testing------------>99% Testing
+
+microsoft windows:1997 an OS new version releasing in a live show--os failed------Microsoft--experienced
+
+
+
+Sofware Testing:
+--------------
+->it is a part of software developement process.
+
+SDLC---software development life cycle
+
+
+project-->for certain customers needs we develop.it will end when requirement was fulfilled
+ex:Bank,super market applciation,CRM companies
+product-->due the market we develop same application .never ending
+ex:watsup,facebook,microsoft
+
+
+ceo-->project or product--->requirements 
+requirements--(BRS or BRD or FRS)---------->plan(doc)------->desing(doc)-->Develop------->SOftware Testing--->Deployment(client)------------>maintance
+
+background--blue ----develop(client)
+background--yellow--client 
+
+
+
+BRS--Business requirement Specification
+BRD--Business requirement document
+FRS--functional requirement specification
+
+
+
+=>It is an activity to detect and identify the bugs or defect in software
+=>The main main motto or object of testing is to release quality product to client
+
+Quality:
+-->bug free
+-->delivered on time
+-->within budget
+-->easily maintainable
+-->meets requirements and expectations
+
+Why the software having bugs?
+-->lack of skilled tester
+-->Software complexity
+-->programming errors
+-->changing requirements or miscommunication
+
+
+
+
+SDLC:software developemnt life cycles
+
+->Waterfall model
+->Spiral model
+->Incremental model
+->Iterative model
+->RAD model
+->V- model
+->Bigbang model
+->Agile model
+->prototype model
+
+
+
+
+types of testing:
+White box testing--developers,coding knowledge should be there,clear box testing,its time consuming
+1.Unit testing
+2.Intergration testing
+Black box testing--tester,only application knowledge,closed testing,easy way
+1.System testing
+2.UAT
+
+Unit testing:small portion of code can called as unit or module.Devloper will test
+1.basic path testing--every line of code need to be run atleast once
+2.condition coverage--conditions like if else avaibles in code those need to be run atleast once
+3.loops coverage--loops like for,while are aviable in code those need to be run atleast once
+4.mutation testing--taking different inputs and will do testing
+
+
+Integration testing:checking the data communication between the 1 module to another module is done by intergration testing.
+if we do testing in coding that can be done by developer.If we do testing based on application level that can be done by tester.So,both developer and testers can do this intergration testing.
+
+Levels:4 levels of testing
+1.Unit testing(developers)
+2.Intergration testing(both developers and tester)
+3.System testing(testers)
+4.UAT(user acceptance testing)(testers)
+
+UAT--User acceptance testing-A sepaerate
+1.alpha testing--we will show our application to customer in testing environment
+2.beta testing-testing an application is done in the client environmnet
+once alpha and beta successfully done then that application will move to the market
+
+SYSTEM TESTING:Testers will do this system testing once intergration testing completed
+--------------
+--------------
+1.GUI testing
+2.usability testing
+3.functional testing
+4.non-functional testing
+
+1.GUI testing:Graphical user interface.menus,dropdown,checkbox,radio etc
+
+checklist:
+----------
+->testing the size,position,width and height of an elemnt(ex:logo)
+->testing the error message are getting displayed or not
+->testing the different sections of the screen
+->testing the font whether it is readable or not
+->testing the screen in different resolutions with the help of zoom in and zoom out
+->testing the alignments of the texts and other elements like icons,buttons etc are in proper place or not
+->testing the color of fonts
+->testing whether the image have good clarity or not
+->testing the alignment of the images
+->testing the spelling
+->the user must not get frustrated while using the system interface
+->testing whether the interface is attractive or not
+->testing the scrollbar according to the size of the page if any
+->testing the disbale fields if any
+->testing the size of images
+->testing the headings whether it is properly aligned ornot
+->testing the color of hyperlinks
+->testing UI elements like buttons,textbox,testarea,checkbox,radio button,links etc
+
+
+2.usability testing:how easily the users are able to understand and operate applciation 
+ex:help menu
+->every software or application should have helpmenu as user manual
+->if sometimes help menu not there user manual can provide as pdf or booklet
+
+3.Function testting:behaviour of applications
+types:
+->object properties testing
+->Database testing
+->Error handling
+->calculation/manupulation testing
+->links existence or links execution
+->cookies and sessions
+
+
+3.Function testting:behaviour of applications
+types:
+->object properties testing
+->Database testing
+->Error handling
+->calculation/manupulation testing
+->links existence or links execution
+->cookies and sessions
+
+
+1.Object properties testing:Checking the properties of objects present on application
+ex:textbox,radio button
+
+2.Database testing:checking the database operations with respective to user operations.
+
+UI----------->DATABASE
+DATABASE------------------->UI
+
+ex:
+If we doing data on employee if we delete or insert.We should check in database that changes are occuring or not
+   Here we work on both UI interface and database by using commands so this type of testing is called Greybox testing
+
+Whitebox testing(Databse) + Blackboxtesting(UI) =Greybox testing
+
+3.Error handling testing:
+
+->tester verify the error messgaes while performing incorrect actions on the application
+->Error should be readable ,it should be understand and in simple language
+
+ex:username:
+   password:
+           login
+
+error msg if it is as incorrect data we dont understand
+if error msg is invalid username user can understand
+
+4.Calculation/manipulation testing:
+->Tester should verify the calculation
+ex:50+30=80
+in 80000, 20000 sent to sister---remaning 60000
+
+5.Links:
+*Links existence:Where exactly links are placed
+*Links executions:Links are navigating to proper page or not
+
+6.cookies and sessions:
+
+cookies:Temporary files created by browser while browsing the pages through internet
+ex:gmail login automatically
+sessions:Sessions are time slots created by the server.It will be expired after sometime(If ur idle for sometime)
+ex:banking sites
+
+4.NON-FUNCTIONAL TESTING:
+--------------------------
+      once the application functionality is stable the we do non-functionality testing.
+->By non-functionlity testing we should reach the exception.Expectations means how the customer want the application
+->Required special set if people
+->They will have their own environment like high load,multiple servers,security testing
+ex:perforamce testing,security testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
